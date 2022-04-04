@@ -2,3 +2,8 @@
 	path = ajaniszewska-dev/crm
 	url = git@github.com:ajaniszewska-dev/crm.git
 	branch = crm_reason
+
+[submodule "OCA/project"]
+	path = OCA/project
+	url = git@github.com:OCA/project.git
+	branch = 15.0
